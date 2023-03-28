@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melksedeque, but you can call me Melk.
-- 🌱 I’m currently learning PHP, JavaScript and Java
+- 🌱 I’m currently learning PHP and JavaScript
 - 📫 You can reach me on freelancer@melksedeque.com.br
 
 <!---
