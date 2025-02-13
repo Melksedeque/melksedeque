@@ -57,9 +57,13 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 
 ## 📊 GitHub Stats
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melksedeque&show_icons=true&theme=dracula) -->
+<!-- Linguagens mais usadas -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melksedeque&layout=compact&theme=dracula)
+
+<!-- Gráfico de atividade recente -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melksedeque&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect!
 
