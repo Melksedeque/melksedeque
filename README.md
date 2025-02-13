@@ -68,11 +68,11 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 
 <div align="center">
 
-<!-- Gráfico de atividade recente -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melksedeque&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- Linguagens mais usadas -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melksedeque&layout=compact&theme=dracula&langs_count=10&hide_border=true)
+
+<!-- Gráfico de atividade recente -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melksedeque&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
