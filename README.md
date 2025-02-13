@@ -64,7 +64,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 
 <!-- Linguagens mais usadas -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melksedeque&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melksedeque&layout=compact&theme=dracula&langs_count=10)
 </div>
 
 ## 📫 Let's Connect!
@@ -74,45 +74,3 @@ Whether you want to talk about code, anime, or debate why Superman is the greate
 ---
 
 _"With great power comes great responsibility to write clean code" - Uncle Ben (probably)_
-
----
-
-## 📊 GitHub Stats & Activities
-
-<div align="center">
-
-<!-- Status gerais do GitHub -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melksedeque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-<!-- Linguagens mais usadas -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melksedeque&layout=compact&theme=dracula&langs_count=8)
-
-<!-- Streak stats - mostra sua consistência -->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melksedeque&theme=dracula)
-
-<!-- Gráfico de contribuições em 3D -->
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<!-- Troféus do GitHub -->
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=melksedeque&theme=dracula&column=7)
-
-<!-- Snake animation -->
-
-![Snake animation](https://github.com/melksedeque/melksedeque/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Badges de status -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=melksedeque&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/melksedeque?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/melksedeque?style=social)
-
-<!-- Gráfico de atividade recente -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melksedeque&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
