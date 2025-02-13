@@ -24,9 +24,9 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 
 ## 📫 Get in Touch  
 
-💌 [Email](mailto:freelancer@melksedeque.com.br)<br>
-💼 [LinkedIn](https://www.linkedin.com/in/melksedeque-silva/)<br>
-🐦 [Twitter / X](https://x.com/SouzaMelk)<br>
-📅 [Schedule a meeting](https://calendly.com/melksedeque-_0v7/30min)<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/melksedeque-silva/)<br>
+[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/SouzaMelk)<br>
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:freelancer@melksedeque.com.br)<br>
+[![Calendly](https://img.shields.io/badge/-Schedule%20a%20Meeting-06B6D4?style=flat&logo=Google%20Meet&logoColor=white)](https://calendly.com/melksedeque-_0v7/30min)<br>
 
 If you've made it this far, let's connect! 🚀  
