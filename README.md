@@ -18,7 +18,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 **⚡ Nerd at Heart:** Exploring universes from _Star Wars to Lord of the Rings_, and everything in between.<br>
 **💙 Superman Fan:** Because with great power comes... wait, wrong hero, but you get the idea!<br>
 **⛪ Faith & Code:** Blending spiritual values with technical excellence.<br>
-**🎯 2025 Goal:** Landing a remote React.js position with international reach.<br>
+**🎯 2025 Goal:** Landing a remote React position with international reach.<br>
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +59,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 
 ## 🎯 What I'm Looking For
 
-- A position as a **Frontend React.js Developer** where I can grow and contribute
+- A position as a **Frontend React Developer** where I can grow and contribute
 - An international team that values clean code and creativity
 - Projects that challenge me to level up (like a real-life RPG!)
 - Remote work opportunities that transcend borders
