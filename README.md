@@ -49,7 +49,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud / Infraestrutura
+### Cloud / Infrastructure
 
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
