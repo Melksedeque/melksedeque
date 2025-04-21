@@ -93,6 +93,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150" />
 
 Whether you want to talk about code, anime, or debate why Superman is the greatest superhero (I have PowerPoint presentations ready 😄), feel free to reach out! Check my contact badges at the top of this README.
+Let's code together!
 
 ---
 
