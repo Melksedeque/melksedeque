@@ -13,7 +13,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 
 ## 🚀 About Me
 
-**🖥️ Frontend Developer:** Crafting digital experiences with _JavaScript, React, Vite, PHP, Laravel, and Node_.<br>
+**🖥️ Full-Stack Developer:** Crafting digital experiences with _JavaScript, React, Vite, PHP, Laravel, and Node_.<br>
 **🌍 Remote Enthusiast:** Seeking global opportunities that break geographical barriers.<br>
 **⚡ Nerd at Heart:** Exploring universes from _Star Wars to Lord of the Rings_, and everything in between.<br>
 **💙 Superman Fan:** Because with great power comes... wait, wrong hero, but you get the idea!<br>
