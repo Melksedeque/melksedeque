@@ -66,7 +66,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 - Watching anime (From Dragon Ball to Demon Slayer 🐉)
 - Reading manga (One Piece is life! ⛵)
 - Debating whether Superman or Batman would win (Obviously, Superman 🦸‍♂️)
-- Rewatching Lord of the Rings for the nth time 🧙‍♂️
+- Rewatching Star Wars, Harry Potter and Lord of the Rings for the nth time 🧙‍♂️
 - Planning my next steps in tech while enjoying a good coffee ☕
 
 ## 🎯 What I'm Looking For
