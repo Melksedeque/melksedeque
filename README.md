@@ -57,7 +57,6 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![OpenCart](https://img.shields.io/badge/-OpenCart-34A853?style=for-the-badge&logo=opencart&logoColor=white)
 
 ## 📺 When I'm Not Coding
 
