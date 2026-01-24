@@ -18,7 +18,7 @@ Welcome to my repository of code, occasional bugs, and a few lines of pure geniu
 **⚡ Nerd at Heart:** Exploring universes from _Star Wars to Lord of the Rings_, and everything in between.<br>
 **💙 Superman Fan:** Because with great power comes... wait, wrong hero, but you get the idea!<br>
 **⛪ Faith & Code:** Blending spiritual values with technical excellence.<br>
-**🎯 2025 Goal:** Landing a remote React position with international reach.<br>
+**🎯 2026 Goal:** Landing a remote React position with international reach.<br>
 
 ## 🛠️ Tech Stack
 
